@@ -57,6 +57,14 @@ AWS • Docker • MongoDB • PostgreSQL • GitHub Actions
 
 ---
 
+## 👻 The Head Ghoul
+
+RetroGhostLabs is led by **Shaun McGuire**, who brings expertise in full-stack development, AI integration, and building tools that solve real problems.
+
+👤 **[Check out Shaun's personal GitHub](https://github.com/YOUR_GITHUB_USERNAME)**
+
+---
+
 ## 🔒 Our Repositories
 
 Most of our active development happens in private repositories as we build and refine products for release. We're committed to quality over quantity and believe in launching products that are truly ready.
@@ -75,12 +83,6 @@ We're open to:
 
 **Interested in collaborating?**  
 📩 [Get in touch](https://retroghostlabs.com/#contact)
-
----
-
-## 📍 Location & Availability
-
-Based in **[Your Location]** • Remote-friendly • Open to worldwide collaboration
 
 ---
 
