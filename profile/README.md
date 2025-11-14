@@ -61,7 +61,7 @@ AWS • Docker • MongoDB • PostgreSQL • GitHub Actions
 
 RetroGhostLabs is led by **Shaun McGuire**, who brings expertise in full-stack development, AI integration, and building tools that solve real problems.
 
-👤 **[Check out Shaun's personal GitHub](https://github.com/YOUR_GITHUB_USERNAME)**
+👤 **[Check out Shaun's personal GitHub](https://github.com/retroghostlabs)**
 
 ---
 
