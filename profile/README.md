@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="RGL_Logo_Background.png" alt="RetroGhostLabs Logo" width="200"/>
+  <img src="RGL_Logo_Transparent.png" alt="RetroGhostLabs Logo" width="200"/>
 </p>
 
 <h1 align="center">RetroGhostLabs, LLC</h1>
